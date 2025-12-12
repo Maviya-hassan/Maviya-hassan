@@ -1,6 +1,5 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Maviya Hassan</h1>
-<h3 align="center">Software Engineering | Machine Learning | Full-Stack Development</h3>
+<h1 align="center">Hi there 👋, I'm Maviya Hassan</h1>
+<h3 align="center">Software Engineering • Machine Learning • Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Maviya-hassan&label=Profile%20Views&color=0e75b6&style=flat" alt="Maviya-hassan" />
@@ -9,39 +8,31 @@
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently exploring **Machine Learning, Deep Learning & Full-Stack Java**
-- 🎓 MCA (Software Engineering)  
-- 🤖 ML projects: Air Quality Prediction, Respiratory Sound Classification, VGG16 Spectrogram Models  
-- 🌐 MERN project: **NewApp – Web based news platform**  
-- 🛠 IoT work: Humidity Automation using DHT11 & Arduino Uno  
-- 💬 Ask me about **Python, ML, Java, Spring Boot, React**
+- Exploring **Machine Learning, Deep Learning & Full-Stack Java**  
+- MCA (Software Engineering)  
+- ML Projects: Air Quality Prediction, Respiratory Sound Classification, Spectrogram Models (VGG16)  
+- MERN project: **NewApp – Web-based News Application**  
+- IoT: Humidity Automation using DHT11 & Arduino Uno  
+- Open to collaboration and learning opportunities  
 
 ---
 
 ## 🧠 Skills  
-### **Programming**
-`Python` · `Java` · `JavaScript`  
-
-### **Machine Learning**
-`TensorFlow` · `Keras` · `Scikit-learn` · `Deep Learning Models`  
-
-### **Web Development**
-`HTML` · `CSS` · `Bootstrap`  
-`React` · `Node.js` · `Express` · `MongoDB`  
-
-### **Tools**
-`Git` · `GitHub` · `Postman` · `VS Code`
+**Languages:** Python • Java • JavaScript  
+**ML / DL:** TensorFlow • Keras • Sklearn  
+**Web Development:** React • Node.js • Express • MongoDB • HTML • CSS • Bootstrap  
+**Tools:** Git • GitHub • VS Code • Postman  
 
 ---
 
 ## 📌 Featured Projects  
-- 🔹 **Air Quality Prediction (ML + Flask)**  
-- 🔹 **Proactive Respiratory Illness Detection via Spectrograms**  
-- 🔹 **NewApp – MERN Stack News App**  
-- 🔹 **IoT Humidity Automation (Arduino)**  
+- 🔹 Air Quality Prediction (ML + Flask)  
+- 🔹 Proactive Respiratory Illness Detection Using Spectrograms  
+- 🔹 NewApp – MERN Stack News Platform  
+- 🔹 IoT Humidity Automation (Arduino)  
 
-> Check my repositories for full code 👇  
-[👉 View My Projects](https://github.com/Maviya-hassan?tab=repositories)
+> Explore more in my repositories 👇  
+[👉 View All Projects](https://github.com/Maviya-hassan?tab=repositories)
 
 ---
 
@@ -53,12 +44,21 @@
 
 ---
 
-## 🤝 Connect With Me  
-<p>
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
+## 🔗 Connect With Me  
+
+<p align="center">
+
+  <!-- Portfolio Placeholder -->
+  <a href="https://maviyahassan-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
 </p>
 
 ---
-⭐ **Thanks for visiting!**
+
+⭐ *Thanks for visiting my profile!*
